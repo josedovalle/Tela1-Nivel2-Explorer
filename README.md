@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Projeto 01 - Nivel 01 - Explorer</h1>
+<h1 align="center">:file_cabinet: Projeto 01 - Nivel 02 - Explorer</h1>
 
 ## :memo: Descrição
 Primeira tela que eu desenvolvi no curso Explorer da Rocketseat.
